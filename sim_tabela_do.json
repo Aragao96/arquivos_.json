@@ -1,0 +1,59 @@
+{
+    "TIPOBITO": {1: "Fetal", 2: "Nao-fetal"}, 
+    
+    "IDADE": {0: "Idade menor de 1 hora", 1: "Hora", 2: "Dias", 3: "Meses", 4: "Anos", 5: "Anos (mais de 100 anos)"}, 
+    
+    "SEXO": {"M": "Masculino", "F": "Feminino", "I": "Ignorado"},
+
+    "RACACOR": {1: "Branca", 2: "Preta", 3: "Amarela", 4: "Parda", 5: "Indigena"}, 
+    
+    "ESTCIV": {1: "Solteiro", 2: "Casado", 3: "Viuvo", 4: "Separado judicialmente/divorciado", 5: "Uniao estavel", 9:"Ignorado"}, 
+    
+    "ESC": {1: "Nenhuma", 2: "1 a 3 anos", 3: "4 a 7 anos", 4:  "8 a 11 anos", 5: "12 e mais", 9: "Ignorado"}, 
+
+    "LOCOCOR": {1: "Hospital", 2: "Outros estabelecimentos de saude", 3: "Domicilio", 4: "Via publica", 5: "Outros", 9: "Ignorado"}, 
+    
+    "ESCMAE": {1: "Nenhuma", 2: "1 a 3 anos", 3: "4 a 7 anos", 4:  "8 a 11 anos", 5: "12 e mais", 9: "Ignorado"}, 
+    
+    "GRAVIDEZ": {1: "Unica", 2:  "Dupla", 3: "Tripla ou mais", 9: "Ignorado"}, 
+    
+    "GESTACAO": {1: "Menos de 22 semanas", 2: "22 a 27 semanas", 3: "28 a 31 semanas", 4: "32 a 36 semanas", 5: "37 a 41 semanas", 6: "42 e + semanas"}, 
+    
+    "PARTO": {1: "Vaginal",  2: "Cesario", 9: "Ignorado"}, 
+    
+    "OBITOPARTO": {1: "Antes", 2: "Durante", 3: "Depois", 9: "Ignorado"},
+
+    "OBITOGRAV": {1: "Sim", 2: "Nao", 9: "Ignorado"}, 
+    
+    "OBITOPUERP": {1: "Sim, de 42 dias após o parto", 2: "Nao, de 43 dias a 1 anos", 3: "Nao", 9: "Ignorado"}, 
+    
+    "ASSISTMED": {1: "Sim", 2: "Não", 9: "Ignorado"}, 
+
+    "EXAME": {1: "Sim", 2: "Não", 9: "Ignorado"}, 
+
+    "CIRURGIA": {1: "Sim", 2: "Não", 9: "Ignorado"}, 
+
+    "NECROPSIA": {1: "Sim", 2: "Não", 9: "Ignorado"}, 
+    
+    "CIRCOBITO": {1: "Acidente", 2: "Suicidio", 3: "Homicidio", 4: "Outros", 9: "Ignorado"}, 
+    
+    "ACIDTRAB": {1: "Sim", 2: "Não", 9: "Ignorado"}, 
+    
+    "FONTE": {1: "Boletim de ocorrencia", 2: "Hospital", 3: "Familia", 4: "Outra", 9: "Ignorado"}, 
+    
+    "TPPOS": {1: "Sim", 2: "Não"}, 
+    
+    "ATESTANTE": {1: "Sim", 2: "Substituto", 3: "IML", 4: "SVO", 5: "Outros"}, 
+    
+    "FONTEINV": {1: "Comite de Morte Materna e/ou Infantil", 2: "Visita Domiciliar / Entrevista Familia", 3: "Estabelecimento de Saude / Prontuario", 4: "Relacionado com outros bancos de dados", 5: "S V O", 6: "I M L", 7: "Outras Fontes", 8: "Multiplas Fontes", 9: "Ignorado"}, 
+    
+    "STRESSELE": {1: "Sim", 2: "Não"}, 
+    
+    "NPROC": {1: "Depende de Perguntas", 2: "Causa Externa", 3: "Procedimento Medico", 4: "Causa basica por CID de paralisia", 5: "Regra F", 6: "CID temporario nao pode ser causa basica"}, 
+
+    "ESC2010": {0: "Sem escolaridade", 1: "Fundamental I (1 a 4 serie)", 2: "Fundamental II (5 a 8 serie)", 3: "Medio (antigo 2 grau)", 4: "Superior Incompleto", 5: "Superior completo", 9: "Ignorado"}, 
+    
+    "ESCMAE2010": {0: "Sem escolaridade", 1: "Fundamental I (1 a 4 serie)", 2: "Fundamental II (5 a 8 serie)", 3: "Medio (antigo 2 grau)", 4: "Superior Incompleto", 5: "Superior completo", 9: "Ignorado"}, 
+    
+    "TPMORTEOCO": {1: "Na Gravidez", 2: "No Parto", 3: "No Aborto", 4: "Até 42 dias apos o parto", 5: "de 43 dias a 1 ano apos o parto", 8: "Nao ocorreu nesses periodos", 9: "Ignorado"}
+}
