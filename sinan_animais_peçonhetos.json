@@ -1,0 +1,72 @@
+{
+    "ANT_ZONA": {1: "Urbana", 2: "Rural", 3: "Periurbana", 9: "Ignorado"}, 
+    
+    "ANT_TEMPO_": {1: "0 - 1h", 2: "1 - 3h", 3: "3 - 6h", 4: "6 - 12h", 5: "12 e 24h", 6: "24 e +h", 9: "Ignorado"}, 
+    
+    "ANT_LOCAL_1": {1: "Cabeça", 2: "Braço", 3: "Ante-Braço", 4: "Mao", 5: "Dedo da mao", 6: "Tronco", 7: "Coxa", 8: "Perna", 9: "Pé", 10: "Dedo do Pe", 99: "Ignorado"}, 
+    
+    "MCLI_LOCAL": {1: "Sim", 2: "Nao", 9: "Ignorado"}, 
+    
+    "CLI_DOR": {1: "Sim", 2: "Nao", 9: "Ignorado"}, 
+    
+    "CLI_EDEMA": {1: "Sim", 2: "Nao", 9: "Ignorado"}, 
+    
+    "CLI_EQUIMO": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+
+    "CLI_NECROS": {1: "Sim", 2: "Nao", 9: "Ignorado"}, 
+    
+    "CLI_LOCAL": {1: "Sim", 2: "Nao", 9: "Ignorado"}, 
+    
+    "MCLI_SIST": {1: "Sim", 2: "Nao", 9: "Ignorado"}, 
+
+    "CLI_NEURO": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+
+    "CLI_HEMORR": {1: "Sim", 2: "Nao", 9: "Ignorado"}, 
+
+    "CLI_VAGAIS": {1: "Sim", 2: "Nao", 9: "Ignorado"}, 
+
+    "CLI_MIOLIT": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+
+    "CLI_RENAL": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+
+    "CLI_OUTR_2": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+    
+    "CLI_TEMPO_": {1: "Sim", 2: "Nao", 9: "Nao Realizado"}, 
+    
+    "TP_ACIDENT": {1: "Serpente", 2: "Aranha", 3: "Escorpiao", 4: "Lagarta", 5: "Abelha", 6: "Outros", 9: "Ignorado"}, 
+    
+    "ANI_SERPEN": {1: "Botropico", 2: "Crotalico", 3: "Elapidico", 4: "Laquetico", 5: "Serpente nao peçonhenta", 9: "Ignorado"}, 
+    
+    "ANI_ARANHA": {1: "Foneutristmo", 2: "Loxoscelismo", 3: "Latrodectismo", 4: "Outra aranha", 9: "Ignorado"}, 
+    
+    "TRA_CLASSI": {1: "Leve", 2: "Moderado", 3: "Grave", 9: "Ignorado"}, 
+    
+    "CON_SOROTE": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+
+    "CON_LOC": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+
+    "CON_SECUND": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+
+    "CON_NECROS": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+
+    "CON_COMPAR": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+
+    "CON_DEFICT": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+
+    "CON_APUTAC": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+
+    "CON_SISTEM": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+    
+    "CON_RENAL": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+    
+    "CON_EDEMA": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+    
+    "CON_SEPTIC": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+    
+    "CON_CHOQUE": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+    
+    "DOENCA_TRA": {1: "Sim", 2: "Nao", 9: "Ignorado"},
+    
+    "EVOLUCAO": {1: "Cura", 2: "Obito por acidente por animais peconhetos", 3: "Obito por outras causas", 9: "Ignorado"}
+    
+}

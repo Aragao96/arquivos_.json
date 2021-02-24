@@ -1,19 +1,20 @@
 {
-    "TP_NOT": {"Negativa": 1, "Individual": 2, "Surto": 3, "Agregado": 4},
+    "TP_NOT": { 1: "negativa", 2: "individual", 3: "surto" , 4: "ignorado"},
 
-    "CS_SEXO": {"M": "Masculino", "F": "Feminino", "I": "Ignorado"},
+    "CS_SEXO": {"M": "masculino", "F": "feminino", "I": "ignorado"},
 
-    "CS_GESTANTE":{"1º Trimestre": 1, "2º Trimestre": 2, "3º Trimestre": 3, "Idade gestacional ignorada": 4, "Nao": 5, "Nao se aplica": 6, "Ignorado": 9},
+    "CS_GESTANTE": {1: "1º Trimestre",  2: "2º Trimestre", 3: "3º Trimestre",  4: "Idade gestacional ignorada", 5: "Nao", 6: "Nao se aplica", 9: "Ignorado"},
 
-    "CS_RACA": {"branca": 1, "preta": 2, "amarela": 3, "parda": 4, "indígena": 5},
+    "CS_RACA": {1: "branca", 2: "preta", 3:  "amarela", 4:  "parda", 5: "indígena"},
 
-    "CS_ESCOL_N": {"1 a 4 serie incompleta do EF": 1, "4 serie completa do EF(antigo primeiro grau)": 2, "5 a 8 serie incompleta do EF(antigo ginasio ou 1 grau)": 3, "Ensino fundamental completo(antigo ginasio ou 1 grau)": 4, "Ensino medio incompleto(antigo colegial ou 2 grau)": 5, "Ensino medio completo(antigo colegial ou 2º grau)": 6, "Ensino superior incompleta": 7, "Educacao superior completa": 8, "ignorado": 9, "Nao se aplica": 10},
+    "CS_ESCOL_N": {1: "1 a 4 serie incompleta do EF", 2: "4 serie completa do EF(antigo primeiro grau)", 3: "5 a 8 serie incompleta do EF(antigo ginasio ou 1 grau)", 4:  "Ensino fundamental completo(antigo ginasio ou 1 grau)", 5: "Ensino medio incompleto(antigo colegial ou 2 grau)", 6: "Ensino medio completo(antigo colegial ou 2º grau)", 7: "Ensino superior incompleta", 8:  "Educacao superior completa", 9: "ignorado", 10:  "Nao se aplica"},
 
-    "CS_ZONA": {"urbana": 1, "rural": 2, "periurbana": 3, "ignorado": 9},
+    "CS_ZONA": {1: "urbana",  2: "rural",  3: "periurbana", 9: "ignorado"},
 
-    "TPAUTOCTO": {"Sim": 1, "Nao": 2, "Indeterminado": 3},
+    "TPAUTOCTO": {1: "Sim", 2: "Nao", 3:  "Indeterminado"},
 
-    "DOENCA_TRA": {"Sim": 1, "Nao": 2, "Ignorado": 9},
+    "DOENCA_TRA": {1: "Sim", 2: "Nao", 9},
 
-    "CS_FLXRET": {"Nao": 0, "habilitado para envio": 1, "enviado": 2}
+    "CS_FLXRET": {0: "Nao", 1: "habilitado para envio", 2: "enviado"}
+
 }
